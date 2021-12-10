@@ -1,0 +1,32 @@
+#container{
+    width:1170px;
+    margin:0 auto;
+    list-style-type: none;
+    text-align: center;
+}
+
+.square{
+    width:100px;
+    height:100px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 100px;
+    margin:25px;
+    display: inline-block;
+}
+
+.blue{
+    background-color: lightblue;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.green{
+    background-color: lightgreen;
+}
+
+.gray{
+    background-color: lightgray;
+}
